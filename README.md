@@ -11,7 +11,7 @@ My name is Ankit. I’m a developer who likes to build and break things, but wit
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3b9edb)
 ![](https://img.shields.io/badge/Desktop-KDEPlasma-informational?style=flat&logo=kde&logoColor=white&color=3b9edb)
 
-![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=3b9edb)
+![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat&logo=jetbrains&logoColor=white&color=3b9edb)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=3b9edb)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3b9edb)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=3b9edb)
