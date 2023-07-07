@@ -4,9 +4,9 @@ My name is Ankit. I’m a developer who likes to build and break things, but wit
 
 ## 🧰 Tools & Technologies
 
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=3b9edb)
 ![](https://img.shields.io/badge/OS-ArchLinux-informational?style=flat&logo=arch-linux&logoColor=white&color=3b9edb)
 ![](https://img.shields.io/badge/OS-FedoraLinux-informational?style=flat&logo=fedora&logoColor=white&color=3b9edb)
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=3b9edb)
 ![](https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=gnu-bash&logoColor=white&color=3b9edb)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3b9edb)
 ![](https://img.shields.io/badge/Desktop-KDEPlasma-informational?style=flat&logo=kde&logoColor=white&color=3b9edb)
