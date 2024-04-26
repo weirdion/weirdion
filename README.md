@@ -22,7 +22,7 @@ My name is Ankit. I’m a developer who likes to build and break things, but wit
 
 <!-- ## 📈 GitHub Stats
 
-![Ankit's languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=weirdion&show_icons=true)
+![Ankit's languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=weirdion&show_icons=true&layout=compact)
 
 ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=weirdion&show_icons=true)
 
