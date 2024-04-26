@@ -22,12 +22,10 @@ My name is Ankit. I’m a developer who likes to build and break things, but wit
 
 <!-- ## 📈 GitHub Stats
 
-<a href="https://github.com/asadana/asadana">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadana&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ankit's GitHub Stats" />
-</a>
+![Ankit's languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=weirdion&show_icons=true)
 
-<a href="https://github.com/asadana/asadana">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=asadana&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ankit's GitHub Stats" />
-</a>
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=weirdion&show_icons=true)
+
+-->
 
 -->
