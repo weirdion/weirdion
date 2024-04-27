@@ -2,7 +2,7 @@
 
 My name is Ankit. I’m a developer who likes to build and break things, but with automation.
 
-## 🧰 Tools & Technologies
+<!-- ## 🧰 Tools & Technologies
 
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=3b9edb)
 ![](https://img.shields.io/badge/OS-ArchLinux-informational?style=flat&logo=arch-linux&logoColor=white&color=3b9edb)
@@ -19,6 +19,7 @@ My name is Ankit. I’m a developer who likes to build and break things, but wit
 ![](https://img.shields.io/badge/Cloud-Amazon_Web_Services-informational?style=flat&logo=amazon-aws&logoColor=white&color=3b9edb)
 ![](https://img.shields.io/badge/Tools-CDK-informational?style=flat&logo=amazon-aws&logoColor=white&color=3b9edb)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3b9edb)
+-->
 
 <!-- ## 📈 GitHub Stats
 
